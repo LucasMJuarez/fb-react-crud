@@ -1,3 +1,16 @@
+Form para llenar, editar y eliminar TASKS con firebase como bd y haciendo las veces de Back y un Front mas tradicional con React implementando recursos como Hooks:
+
+Aca se puede ver el formulario vacio, y cuando se agrega satisfatoriamente (mostrado mediante alertas de Toastify)
+
+[![captura1.jpg](https://i.postimg.cc/tJ7WvvY7/captura1.jpg)](https://postimg.cc/p5bmpZQt)
+
+Por ultimo las alertas al editar y eliminar alguna Task.
+
+[![captura2.jpg](https://i.postimg.cc/J0gJf3kx/captura2.jpg)](https://postimg.cc/XBfpFCxB)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
